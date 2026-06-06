@@ -1,5 +1,13 @@
+# Compiled binary
 battery_notifier
+
+# Object files
 *.o
+
+# Editor settings
 .vscode/
 .idea/
+
+# Temporary files
 *.swp
+*~
